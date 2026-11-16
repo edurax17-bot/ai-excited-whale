@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/edurax17-bot/ai-excited-whale/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/edurax17-bot/ai-excited-whale/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A humpback whale the size of a mountain breaching over a coastal town at dusk — impossible scale, golden light, water exploding everywhere. One look and you sit up.
+One image that gets an AI judge excited: your program writes it, the judge compares the images two at a time and picks the one that excites it more, the 20 best win rates share $250, and the 1st-place image is shown on make.fun's site and in its posts. This entry is a giant humpback whale breaching over a coastal town at dusk — a sudden, impossible scale, frozen mid-burst, that hits at a glance even at small size.
 
 ## Run it
 
